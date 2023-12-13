@@ -22,7 +22,7 @@ The DataFrame contains a "subcategory_id" column that has entries going sequenti
 
 ## Crowdfunding Database ##
 
-#### A database schema labeled, crowdfunding_db_schema.sql is created ####
+A database schema labeled, crowdfunding_db_schema.sql is created 
 A crowdfunding_db is created using the crowdfunding_db_schema.sql
 The database has the appropriate primary and foreign keys and relationships 
 Each CSV file is imported into the appropriate table without errors 
